@@ -1,9 +1,9 @@
 ## Hola, I'm Divyanshu Parwal  👋
 
 - 👨‍💻 I'm a MERN Full Stack Developer
-- 🏫 I'm currently a second year ECE student at IET, Indore. 
+- 🏫 I'm currently a second year ECE student. 
 - 👯 I’m looking to collaborate with other developers out there.
-- 🥅 2020 Goals: Contribute more to Open Source projects.
+- 🥅 My Goals: Contribute more to Open Source projects.
 
 
 
