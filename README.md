@@ -1,7 +1,7 @@
 ## Hola, I'm Divyanshu Parwal  👋
 
 - 👨‍💻 I'm a MERN Full Stack Developer
-- 🏫 I'm currently a second year ECE student. 
+- 🏫 I'm currently a third year ECE student. 
 - 👯 I’m looking to collaborate with other developers out there.
 
 
