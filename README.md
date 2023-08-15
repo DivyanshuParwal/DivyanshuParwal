@@ -2,7 +2,7 @@
 
 - 👨‍💻 I'm a MERN Stack Developer
 - 🏫 I graduated with a Bachelor of Engineering in Electronics and Telecommunications.
-- I have a strong skill set in web development, and have gained experience in this field through internships and content writing. 
+- 📄 I have a strong skill set in web development, and have gained experience in this field through internships and content writing. 
 - 📫 How to reach me **divyanshuparwal2001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
