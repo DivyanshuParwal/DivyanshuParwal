@@ -5,7 +5,7 @@
 **Full-Stack Engineer · Backend Systems · Cloud Infrastructure**
 
 [![Email](https://img.shields.io/badge/divyanshuparwal2001@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:divyanshuparwal2001@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/divyanshuparwal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyanshu-parwal/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/divyanshuparwal)
 
 </div>
